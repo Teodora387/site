@@ -1,0 +1,25 @@
+textarea {
+    width: 650px;
+    height: 80px;
+    background-color: #fff;
+    resize: none;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    background-color: #282828;
+    border: none;
+    color: #fff;
+    font-family: 'Roboto Condensed' sans-serif;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.commentBox p {
+    font-family: 'Roboto Slab' sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    color: #282828;
+    font-weight: 100;
+}
